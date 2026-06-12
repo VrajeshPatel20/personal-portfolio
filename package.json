@@ -1,0 +1,12 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "Vrajesh Patel - Senior Data Engineer Portfolio",
+  "scripts": {
+    "dev": "serve . -p 3000",
+    "build": "echo 'No build step required for static site'"
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
